@@ -1,0 +1,16 @@
+{
+    "name": "muskan/cloudinary",
+    "description": "upload images",
+    "authors": [
+        {
+            "name": "Muskan",
+            "email": "manikaaggarwal62@gmail.com"
+        }
+    ],
+    "require": {}
+}
+{
+  "require": {
+    "cloudinary/cloudinary_php": "dev-master"
+  }
+}
